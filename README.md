@@ -10,3 +10,5 @@ creating paragraphs for each part of the recipe. So basically the basics and roo
 Development. I also learn how to work more with Git and GITHUB.
 
 End of project, what have i learned after completing the project?
+I realized that i still have to work with GITHUB and git. I had troubles at the beginning finding out when and what i should commit
+but after a while i think i made it work. I don't know if what i did was right but i'll find out in the future.
